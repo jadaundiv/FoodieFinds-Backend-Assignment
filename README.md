@@ -37,3 +37,18 @@ FoodieFinds is a food discovery web application that allows users to search for 
    ```bash
    git clone https://github.com/jadaundiv/FoodieFinds-Backend-Assignment.git
    cd FoodieFinds-Backend-Assignment
+   ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the server:**
+
+    ```bash
+    npm start
+    ```
+
+    The server will run locally at `http://localhost:3000`.
