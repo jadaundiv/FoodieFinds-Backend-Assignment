@@ -35,5 +35,5 @@ FoodieFinds is a food discovery web application that allows users to search for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/foodiefinds-backend.git
-   cd foodiefinds-backend
+   git clone https://github.com/jadaundiv/FoodieFinds-Backend-Assignment.git
+   cd FoodieFinds-Backend-Assignment
